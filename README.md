@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## LAGRE BERTRAND --Page Web
+I am data developper. I do also Web developpment
